@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello World,
+I'm Nana - a Python backend Developer! I love coding, creating some projects and just my fav old friend Python!
 
-<!--
-**imnaur/imnaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some information about me:
 
-Here are some ideas to get you started:
+- 🌟 I’m currently working on my pet projects and to be active in Git World 😄
+- 📚 I’m currently learning my second language JavaScript+TypeScript
+- 🔭 I’m looking to collaborate on interesting AI projects
+- 💬 Ask me about Python and my life in Germany (4th year) - Nobody can stop me 😄
+- 📫 How to reach me: telegram: imnaur / Email: imnaur@gmx.de
+- ✨ Hobbys: jogging, reading classic literature and baking super tasty cookies 🍪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- ⚡ Fun fact: At 16 I was a box republic champ in Kyrgyzstan, at 19 I moved to Moscow, at 22 in Germany, and at 25 I started conquering the IT world! I'm afraid, what will happen at 30 - flight in another universe? 😅🪐
