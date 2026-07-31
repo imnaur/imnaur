@@ -12,4 +12,4 @@ Some information about me:
 - 🩵 Short description of my personality: zero talents, only determination and discipline
 
 
-- ⚡ Fun fact: At 16 I was a box republic champ in Kyrgyzstan, at 19 I moved to Moscow, at 22 in Germany, and at 25 I started conquering the IT world! I'm afraid, what will happen at 30 - flight in another universe? 😅🪐
+- ⚡ Fun fact: At 16 I was a boxing champion of the Kyrgyz republic, at 19 I moved to Moscow, at 22 in Germany, and at 25 I started conquering the IT world! I'm afraid, what will happen at 30 - flight in another universe? 😅🪐
