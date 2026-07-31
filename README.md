@@ -14,4 +14,4 @@ Some information about me:
 
 - ⚡ Fun fact: At 16 I was a boxing champion of the Kyrgyz republic, at 19 I moved to Moscow, at 22 in Germany, and at 25 I started conquering the IT world! I'm afraid, what will happen at 30 - flight in another universe? 😅🪐
 
-![snake width animation](https://raw.githubusercontent.com/imnaur/imnaur/output/github-snake.svg)
+![snake width animation](https://raw.githubusercontent.com/imnaur/imnaur/output/github-snake.svg?v=1)
