@@ -14,9 +14,10 @@ Some information about me:
 
 - ⚡ Fun fact: At 16 I was a boxing champion of the Kyrgyz republic, at 19 I moved to Moscow, at 22 in Germany, and at 25 I started conquering the IT world! I'm afraid, what will happen at 30 - flight in another universe? 😅🪐
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imnaur&show_icons=true&theme=dark" alt="stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnaur&layout=compact&theme=dark" alt="langs" />
+### Tech Stack 🛠️
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
