@@ -14,4 +14,12 @@ Some information about me:
 
 - ⚡ Fun fact: At 16 I was a boxing champion of the Kyrgyz republic, at 19 I moved to Moscow, at 22 in Germany, and at 25 I started conquering the IT world! I'm afraid, what will happen at 30 - flight in another universe? 😅🪐
 
-![snake width animation](https://raw.githubusercontent.com/imnaur/imnaur/output/github-snake-dark.svg?v=1)
+<table>
+  <tr>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=imnaur&show_icons=true&theme=dark" /></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnaur&layout=compact&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://readme-streak-stats.herokuapp.com/?user=imnaur&theme=dark" /></td>
+  </tr>
+</table>
