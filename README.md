@@ -37,6 +37,7 @@ Some information about me:
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-CC292D?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
 </p>
 
 **DevOps & Tools:**
