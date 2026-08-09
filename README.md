@@ -35,6 +35,7 @@ Some information about me:
 **Databases & Brokers:**
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ORM-1F425F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLAlchemy-CC292D?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
