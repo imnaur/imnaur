@@ -1,18 +1,15 @@
 ## Hello World,
-I'm Nana - a Python backend Developer! I love coding, creating some projects and just my fav old friend Python!
+I'm Nana - a Backend Developer.
 
-Some information about me:
+- 📚 Currently, I am completing a career retraining program in ABAP Cloud Backend Development with Integrated Business Processes.
+  During my training, I am developing my skills in SAP technologies, backend development, and business process integration.
 
-- 🌟 I’m currently working on my pet projects and to be active in Git World 😄
-- 📚 I’m currently learning my second language JavaScript+TypeScript
-- 🔭 I’m looking to collaborate on interesting AI projects
-- 💬 Ask me about Python and my life in Germany (4th year) - Nobody can stop me 😄
+I enjoy developing applications that help businesses solve real-world problems and improve their processes.
+
 - 📫 How to reach me: telegram: imnaur / Email: imnaur@gmx.de
-- ✨ Hobbys: jogging, reading classic literature and baking super tasty cookies 🍪
+
 - 🩵 Short description of my personality: zero talents, only determination and discipline
 
-
-- ⚡ Fun fact: At 16 I was a boxing champion of the Kyrgyz republic, at 19 I moved to Moscow, at 22 in Germany, and at 25 I started conquering the IT world! I'm afraid, what will happen at 30 - flight in another universe? 😅🪐
 
 ### Tech Stack 🛠️
 
