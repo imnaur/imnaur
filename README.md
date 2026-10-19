@@ -18,9 +18,9 @@ Some information about me:
 
 **Languages & Core:**
 <p>
+  <img src="https://img.shields.io/badge/SAP%20ABAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" alt="SAP ABAP" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 **Backend & API:**
@@ -40,6 +40,27 @@ Some information about me:
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLAlchemy-CC292D?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
 </p>
+
+---
+
+### 📊 GitHub Analytics & Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=imnaurtheme=dracula&column=7&no-bg=true&no-frame=true" alt="imnaur trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imnaur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="imnaur GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imnaur&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="imnaur Top Languages" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imnaur&theme=tokyonight&hide_border=true&background=0D1117" alt="imnaur Streak Stats" />
+</p>
+
+---
 
 **DevOps & Tools:**
 <p>
