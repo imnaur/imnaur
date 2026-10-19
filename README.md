@@ -43,12 +43,6 @@ I enjoy developing applications that help businesses solve real-world problems a
 ### 📊 GitHub Analytics & Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=imnaurtheme=dracula&column=7&no-bg=true&no-frame=true" alt="imnaur trophies" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imnaur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="imnaur GitHub Stats" height="195" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imnaur&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="imnaur Top Languages" height="195" />
 </p>
