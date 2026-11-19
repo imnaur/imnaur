@@ -1,63 +1,69 @@
 ## Hello World,
-I'm Nana - a Backend Developer.
+I'm Nana, an aspiring **ABAP Cloud Backend Developer**.
 
-- 📚 Currently, I am completing a career retraining program in ABAP Cloud Backend Development with Integrated Business Processes.
-  During my training, I am developing my skills in SAP technologies, backend development, and business process integration.
-
-I enjoy developing applications that help businesses solve real-world problems and improve their processes.
-
-- 📫 How to reach me: telegram: imnaur / Email: imnaur@gmx.de
-
-- 🩵 Short description of my personality: zero talents, only determination and discipline
-
-
-### Tech Stack 🛠️
-
-**Languages & Core:**
-<p>
-  <img src="https://img.shields.io/badge/SAP%20ABAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" alt="SAP ABAP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-**Backend & API:**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
-</p>
-
-**Databases & Brokers:**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ORM-1F425F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-CC292D?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-</p>
+- 📚 Currently completing a career retraining program in **SAP S/4HANA application development with ABAP Cloud**, including the full S4D400, S4D401, S4D426 and S4D430 curriculum.
+- 🎯 Preparing for the certification **SAP Certified Associate – Back-End Developer – ABAP Cloud**.
+- 💡 I enjoy building backend logic that helps businesses solve real-world problems and improve their processes.
+- 📫 How to reach me: Telegram: imnaur / Email: imnaur@gmx.de
+- 🩵 About me: disciplined, curious and persistent. I learn fast and finish what I start.
 
 ---
 
-### 📊 GitHub Analytics & Trophies
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imnaur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="imnaur GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imnaur&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="imnaur Top Languages" height="195" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imnaur&theme=tokyonight&hide_border=true&background=0D1117" alt="imnaur Streak Stats" />
-</p>
-
----
-
-**DevOps & Tools:**
+**SAP and ABAP Cloud:**
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/ABAP%20Cloud-008FD3?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP%20S%2F4HANA-008FD3?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/CDS-008FD3?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/OData-008FD3?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Core-008FD3?style=for-the-badge&logo=sap&logoColor=white" />
+</p>
+
+**Data and modelling:**
+<p>
+  <img src="https://img.shields.io/badge/ABAP%20SQL-1F425F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ABAP%20Dictionary-1F425F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Relational%20DB-1F425F?style=for-the-badge" />
+</p>
+
+**Tools:**
+<p>
+  <img src="https://img.shields.io/badge/ADT%20Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/abapGit-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+**Also familiar with:**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+### 🎓 What I work with in ABAP
+
+- **ABAP basics:** control flow, structures, internal tables, field symbols, string and time processing
+- **Object-oriented ABAP:** inheritance, polymorphism, interfaces, factory methods, exception classes
+- **ABAP SQL:** joins, aggregations, performance and tracing
+- **Authorization:** `AUTHORITY-CHECK` and access control for CDS views
+- **CDS views, EML and RAP** for OData UI services
+- **Clean Core extensibility** for SAP S/4HANA Cloud
+
+---
+
+### 📁 Projects
+
+| Repository | Description |
+|---|---|
+| [SAP_ABAP](https://github.com/imnaur/SAP_ABAP) | S4D400 exercises (basic ABAP) and final task |
+| [ABAP_CLOUD](https://github.com/imnaur/ABAP_CLOUD) | S4D401 exercises (intermediate ABAP) and final task: vehicles, rental company, factory methods, custom exceptions |
+
+---
+
+### 🌱 Currently
+
+- Practicing data modelling in the ABAP Dictionary and ABAP CDS (S4D430)
+- Working on the case study and preparing for the ABAP Cloud certification
